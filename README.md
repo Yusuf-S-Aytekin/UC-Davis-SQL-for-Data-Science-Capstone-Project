@@ -11,4 +11,4 @@
 
 -- ERD.vuerd file is for creating the ER diagram. You need to download the ERD Editor extension in VSCode to use this.
 
--- You can run the SportsStats.session.sql file to create the corresponding tables.
+-- You can run the SportsStats.session.sql file to create the tables in ERD.
