@@ -1,5 +1,6 @@
 # UC Davis SQL for Data Science Capstone Project
 
+### About the __Code__ Folder
 - This repository contains the work for my SQL for Data Science Capstone Project by UCDavis/Coursera.
 
 - This repository contains all the codes (python and SQL) and milestones.
